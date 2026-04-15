@@ -31,7 +31,7 @@ The script processes raw input data and produces clean, analysis-ready datasets,
 ---
 
 ## Project Structure
-
+```
 scripts/
 ├── excel_data_cleaner_automation/
 │   ├── input/
@@ -40,7 +40,7 @@ scripts/
 │   ├── log/
 │   ├── README.md
 │   └── data_cleaner.py
-
+```
 ---
 
 ## How It Works
