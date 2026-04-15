@@ -1,0 +1,24 @@
+customer_id,customer_name,email,phone,country,signup_date,product,quantity,unit_price,total_amount,status,record_status,issue_missing_key_field,issue_invalid_signup_date,issue_invalid_numeric_data,issue_negative_values,issue_status_review_required,issue_notes
+CUST001,John Smith,john.smith@email.com,0412345678,Australia,2024-01-15,Laptop Stand,2.0,45.5,91.0,Active,Clean,No,No,No,No,No,No issues detected
+CUST002,Sarah Jones,sarah.jones@email.com,0499111222,Australia,2024-02-15,Wireless Mouse,3.0,25.0,75.0,Completed,Clean,No,No,No,No,No,No issues detected
+CUST003,Liam Brown,liam.brown@email.com,0891234567,New Zealand,2024-03-01,Keyboard,1.0,89.99,89.99,Pending,Clean,No,No,No,No,No,No issues detected
+CUST004,Emma Wilson,emma.wilson@email.com,0400555111,Canada,[Unknown],Monitor Arm,1.0,120.0,120.0,Processing,Flagged,No,Yes,No,No,No,Invalid or missing signup date
+CUST005,Noah Taylor,noah.taylor@email.com,0402888999,Australia,2024-04-10,Desk Lamp,2.0,35.0,70.0,Active,Clean,No,No,No,No,No,No issues detected
+CUST006,Olivia Martin,olivia.martin@email.com,0403222333,Uk,2024-05-05,Usb Hub,[Unknown],19.95,79.8,Completed,Flagged,No,No,Yes,No,No,Invalid or missing numeric value
+CUST007,[Unknown],mia.white@email.com,0404123321,Australia,2024-05-20,Webcam,1.0,59.99,59.99,Completed,Flagged,Yes,No,No,No,No,Missing required business field
+CUST008,James Harris,james.harris@email.com,0405987654,Usa,2024-06-01,Laptop Stand,2.0,45.5,91.0,Completed,Clean,No,No,No,No,No,No issues detected
+CUST009,Charlotte Clark,charlotte.clark@email.com,0406654987,Australia,[Unknown],Headset,1.0,89.0,89.0,Pending,Flagged,No,Yes,No,No,No,Invalid or missing signup date
+CUST010,Henry Lewis,henry.lewis@email.com,0407321789,Germany,2024-06-15,Microphone,2.0,110.0,220.0,Inactive,Clean,No,No,No,No,No,No issues detected
+CUST011,Amelia Walker,amelia.walker@email.com,0408111222,Australia,2024-07-01,Desk Mat,3.0,15.0,45.0,Cancelled,Clean,No,No,No,No,No,No issues detected
+CUST012,Benjamin Hall,benjamin.hall@email.com,0409333444,Australia,2024-07-05,Keyboard,1.0,89.99,89.99,Returned,Clean,No,No,No,No,No,No issues detected
+CUST013,Isla Allen,isla.allen@email.com,0410777888,France,2024-07-10,Monitor Arm,2.0,120.0,240.0,Review Required,Flagged,No,No,No,No,Yes,Unexpected status value
+CUST014,Lucas Young,lucas.young@email.com,0411999000,Australia,2024-07-20,Usb Hub,5.0,19.0,95.0,Processing,Clean,No,No,No,No,No,No issues detected
+CUST015,Ava King,ava.king@email.com,0412123000,Australia,2024-08-01,Desk Lamp,2.0,[Unknown],70.0,Completed,Flagged,No,No,Yes,No,No,Invalid or missing numeric value
+CUST016,Ethan Wright,ethan.wright@email.com,0413888111,Australia,2024-08-10,Webcam,1.0,59.99,59.99,Completed,Clean,No,No,No,No,No,No issues detected
+CUST017,Sophia Scott,sophia.scott@email.com,0414222999,Ireland,2024-08-18,Headset,2.0,89.0,178.0,Active,Clean,No,No,No,No,No,No issues detected
+CUST018,Jack Green,jack.green@email.com,0415333777,Australia,2024-09-01,Microphone,-1.0,110.0,-110.0,Completed,Flagged,No,No,No,Yes,No,Negative numeric value detected
+CUST019,Grace Adams,grace.adams@email.com,0416444666,Australia,2024-09-12,Desk Mat,2.0,15.0,30.0,Completed,Clean,No,No,No,No,No,No issues detected
+CUST020,William Baker,william.baker@email.com,0417555888,Spain,2024-09-20,Wireless Mouse,3.0,25.0,75.0,Pending,Clean,No,No,No,No,No,No issues detected
+[Unknown],Harper Nelson,harper.nelson@email.com,0418666999,Australia,2024-09-25,Keyboard,1.0,89.99,89.99,Completed,Flagged,Yes,No,No,No,No,Missing required business field
+CUST022,Elijah Carter,[Unknown],0419101202,Australia,2024-10-01,Desk Lamp,2.0,35.0,70.0,Active,Clean,No,No,No,No,No,No issues detected
+CUST023,Abigail Mitchell,abigail.mitchell@email.com,0420202303,New Zealand,2024-10-11,Usb Hub,[Unknown],19.95,19.95,Completed,Flagged,No,No,Yes,No,No,Invalid or missing numeric value

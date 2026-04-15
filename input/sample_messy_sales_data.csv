@@ -1,0 +1,25 @@
+﻿customer_id,customer_name,email,phone,country,signup_date,product,quantity,unit_price,total_amount,status
+CUST001,  john smith  ,JOHN.SMITH@EMAIL.COM,0412 345 678,australia,15/01/2024,Laptop Stand,2,45.5,91,active
+CUST002,SARAH JONES,sarah.jones@email.com,0499-111-222,Australia,15/02/2024,Wireless Mouse,3,25,75,Completed
+CUST003,liam brown,liam.brown@email.com,(08) 9123 4567,new zealand,1/03/2024,Keyboard,1,89.99,89.99,pending
+CUST004, Emma Wilson ,emma.wilson@email.com,0400 555 111,canada,2024-13-01,Monitor Arm,1,120,120,processing
+CUST005,Noah Taylor,noah.taylor@email.com,0402 888 999,Australia,10/04/2024,Desk Lamp,2,$35.00,70,ACTIVE
+CUST006,Olivia Martin,olivia.martin@email.com,0403 222 333,uk,5/05/2024,USB Hub,four,19.95,79.8,completed
+CUST007, ,mia.white@email.com,0404 123 321,Australia,20/05/2024,Webcam,1,59.99,59.99,completed
+CUST008,James Harris,james.harris@email.com,0405 987 654,usa,1/06/2024,Laptop Stand,2,45.5,95,Completed
+CUST009,Charlotte Clark,charlotte.clark@email.com,0406 654 987,Australia,not_a_date,Headset,1,89,89,pending
+CUST010,Henry Lewis,henry.lewis@email.com,0407 321 789,germany,15/06/2024,Microphone,2,110,,inactive
+CUST011,Amelia Walker,amelia.walker@email.com,0408 111 222,Australia,1/07/2024,Desk Mat,3,15,45,cancelled
+CUST012,Benjamin Hall,benjamin.hall@email.com,0409 333 444,Australia,5/07/2024,Keyboard,1,89.99,89.99,returned
+CUST013,Isla Allen,isla.allen@email.com,0410 777 888,france,10/07/2024,Monitor Arm,2,120,240,unknown
+CUST014,Lucas Young,lucas.young@email.com,0411 999 000,Australia,20/07/2024,USB Hub,5,19,95,process
+CUST015,Ava King,ava.king@email.com,0412 123 000,Australia,1/08/2024,Desk Lamp,2,abc,70,completed
+CUST016,Ethan Wright,ethan.wright@email.com,0413 888 111,Australia,10/08/2024,Webcam,1,59.99,59.99,Completed
+CUST017,Sophia Scott,sophia.scott@email.com,0414 222 999,ireland,18/08/2024,Headset,2,89,178,active
+CUST018,Jack Green,jack.green@email.com,0415 333 777,Australia,1/09/2024,Microphone,-1,110,-110,completed
+CUST019,Grace Adams,grace.adams@email.com,0416 444 666,Australia,12/09/2024,Desk Mat,2,15,30,Completed
+CUST020,William Baker,william.baker@email.com,0417 555 888,spain,20/09/2024,Wireless Mouse,3,25,75,pending
+CUST020,William Baker,william.baker@email.com,0417 555 888,spain,20/09/2024,Wireless Mouse,3,25,75,pending
+,Harper Nelson,harper.nelson@email.com,0418 666 999,Australia,25/09/2024,Keyboard,1,89.99,89.99,completed
+CUST022,Elijah Carter,,0419 101 202,Australia,1/10/2024,Desk Lamp,2,35,70,active
+CUST023,Abigail Mitchell,abigail.mitchell@email.com,0420 202 303,new zealand,11/10/2024,USB Hub, ,19.95,19.95,completed

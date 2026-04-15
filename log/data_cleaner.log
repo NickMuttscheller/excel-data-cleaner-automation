@@ -1,0 +1,56 @@
+2026-04-15 12:31:43 | INFO | root | Starting CSV and Excel data cleaner automation
+2026-04-15 12:31:43 | INFO | root | Selected input file: sample_messy_sales_data.csv
+2026-04-15 12:31:43 | INFO | root | Loading input data from sample_messy_sales_data.csv
+2026-04-15 12:31:43 | INFO | root | Loaded 24 raw rows and 11 columns
+2026-04-15 12:31:43 | INFO | root | Removed 0 fully empty rows
+2026-04-15 12:31:43 | INFO | root | Found 1 invalid status values
+2026-04-15 12:31:43 | INFO | root | Invalid dates identified: 2
+2026-04-15 12:31:43 | INFO | root | Numeric cleanup for quantity | invalid: 1 | negative: 1
+2026-04-15 12:31:43 | INFO | root | Numeric cleanup for unit_price | invalid: 1 | negative: 0
+2026-04-15 12:31:43 | INFO | root | Numeric cleanup for total_amount | invalid: 0 | negative: 1
+2026-04-15 12:31:43 | INFO | root | Removed 1 duplicate rows
+2026-04-15 12:31:43 | INFO | root | Recalculated total_amount for 2 rows
+2026-04-15 12:31:43 | INFO | root | Created formatted Excel report: cleaned_business_data_20260415_123143.xlsx
+2026-04-15 12:31:43 | INFO | root | Created cleaned CSV file: cleaned_business_data_20260415_123143.csv
+2026-04-15 12:31:43 | INFO | root | Created summary text report: data_quality_summary_20260415_123143.txt
+2026-04-15 12:31:43 | INFO | root | Processing completed successfully
+2026-04-15 12:31:43 | INFO | root | Raw row count: 24
+2026-04-15 12:31:43 | INFO | root | Rows after empty-row removal: 24
+2026-04-15 12:31:43 | INFO | root | Duplicate rows removed: 1
+2026-04-15 12:31:43 | INFO | root | Missing key field rows flagged: 2
+2026-04-15 12:31:43 | INFO | root | Invalid date count: 2
+2026-04-15 12:31:43 | INFO | root | Invalid numeric count: 2
+2026-04-15 12:31:43 | INFO | root | Negative numeric count: 2
+2026-04-15 12:31:43 | INFO | root | Totals recalculated: 2
+2026-04-15 12:31:43 | INFO | root | Invalid status count: 1
+2026-04-15 12:31:43 | INFO | root | Final clean row count: 14
+2026-04-15 12:31:43 | INFO | root | Final issue row count: 9
+2026-04-15 12:31:43 | INFO | root | All output files created in: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\excel_data_cleaner_automation\output
+2026-04-15 13:06:04 | INFO | root | Starting CSV and Excel data cleaner automation
+2026-04-15 13:06:04 | INFO | root | Selected input file: sample_messy_sales_data.csv
+2026-04-15 13:06:04 | INFO | root | Loading input data from sample_messy_sales_data.csv
+2026-04-15 13:06:04 | INFO | root | Loaded 24 raw rows and 11 columns
+2026-04-15 13:06:04 | INFO | root | Removed 0 fully empty rows
+2026-04-15 13:06:04 | INFO | root | Found 1 invalid status values
+2026-04-15 13:06:04 | INFO | root | Invalid dates identified: 2
+2026-04-15 13:06:04 | INFO | root | Numeric cleanup for quantity | invalid: 1 | negative: 1
+2026-04-15 13:06:04 | INFO | root | Numeric cleanup for unit_price | invalid: 1 | negative: 0
+2026-04-15 13:06:04 | INFO | root | Numeric cleanup for total_amount | invalid: 0 | negative: 1
+2026-04-15 13:06:04 | INFO | root | Removed 1 duplicate rows
+2026-04-15 13:06:04 | INFO | root | Recalculated total_amount for 2 rows
+2026-04-15 13:06:04 | INFO | root | Created formatted Excel report: cleaned_business_data_20260415_130604.xlsx
+2026-04-15 13:06:04 | INFO | root | Created cleaned CSV file: cleaned_business_data_20260415_130604.csv
+2026-04-15 13:06:04 | INFO | root | Created summary text report: data_quality_summary_20260415_130604.txt
+2026-04-15 13:06:04 | INFO | root | Processing completed successfully
+2026-04-15 13:06:04 | INFO | root | Raw row count: 24
+2026-04-15 13:06:04 | INFO | root | Rows after empty-row removal: 24
+2026-04-15 13:06:04 | INFO | root | Duplicate rows removed: 1
+2026-04-15 13:06:04 | INFO | root | Missing key field rows flagged: 2
+2026-04-15 13:06:04 | INFO | root | Invalid date count: 2
+2026-04-15 13:06:04 | INFO | root | Invalid numeric count: 2
+2026-04-15 13:06:04 | INFO | root | Negative numeric count: 2
+2026-04-15 13:06:04 | INFO | root | Totals recalculated: 2
+2026-04-15 13:06:04 | INFO | root | Invalid status count: 1
+2026-04-15 13:06:04 | INFO | root | Final clean row count: 14
+2026-04-15 13:06:04 | INFO | root | Final issue row count: 9
+2026-04-15 13:06:04 | INFO | root | All output files created in: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\excel_data_cleaner_automation\output

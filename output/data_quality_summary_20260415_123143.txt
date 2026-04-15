@@ -1,0 +1,42 @@
+CSV and Excel Data Cleaner Automation - Summary Report
+============================================================
+
+Source File: sample_messy_sales_data.csv
+Raw Row Count: 24
+After Empty Row Removal: 24
+Duplicate Rows Removed: 1
+Rows Flagged - Missing Key Fields: 2
+Invalid Date Count: 2
+Invalid Numeric Count: 2
+Negative Numeric Count: 2
+Totals Recalculated: 2
+Invalid Status Count: 1
+Final Clean Row Count: 14
+Final Issue Row Count: 9
+Run Timestamp: 2026-04-15 12:31:43
+
+Business Data Quality Summary
+------------------------------------------------------------
+Source File: sample_messy_sales_data.csv
+Raw Row Count: 24
+After Empty Row Removal: 24
+Duplicate Rows Removed: 1
+Rows Flagged - Missing Key Fields: 2
+Invalid Date Count: 2
+Invalid Numeric Count: 2
+Negative Numeric Count: 2
+Totals Recalculated: 2
+Invalid Status Count: 1
+Final Clean Row Count: 14
+Final Issue Row Count: 9
+Run Timestamp: 2026-04-15 12:31:43
+
+Issue Summary
+------------------------------------------------------------
+Missing Key Fields: 2
+Invalid Signup Dates: 2
+Invalid Numeric Data: 3
+Negative Numeric Values: 1
+Unexpected Status Values: 1
+Flagged Records: 9
+Clean Records: 14
